@@ -1,0 +1,2 @@
+# Canadian-Engineering-Board-Accreditation
+Software that replicates the CEAB to assess whether the engineering programs that are being created are of high quality. This is done by creating multiple courses with different learning outcomes, and using them to create a program. The software then measures the quality of the program. Automated testing was done on all the modules to ensure that they are functioning correctly.
